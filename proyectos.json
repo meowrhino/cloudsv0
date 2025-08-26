@@ -61,10 +61,14 @@
     ]
   },
   {
-    "name": "meowrhino",
+    "name": "meowrhino clouds",
     "links": [
-      "https://meowrhino.github.io/cloudsv0/",
-      "https://meowrhino.github.io/meowrhinoSpace/",
+      "https://meowrhino.github.io/clouds/"
+    ]
+  },
+  {
+    "name": "meowrhino archive",
+    "links": [
       "https://meowrhino.neocities.org/"
     ]
   },
