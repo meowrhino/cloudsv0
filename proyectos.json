@@ -6,15 +6,21 @@
     ]
   },
   {
+    "name": "mirandas",
+    "links": [
+      "https://meowrhino.github.io/mirandaperezhita/"
+    ]
+  },
+  {
     "name": "mikesx cd's",
     "links": [
       "https://meowrhino.github.io/mikesx/"
     ]
   },
   {
-    "name": "mirandas",
+    "name": "paula barjau",
     "links": [
-      "https://meowrhino.github.io/mirandaperezhita/"
+      "https://meowrhino.github.io/paulabarjau/"
     ]
   },
   {
@@ -117,6 +123,12 @@
     "name": "webP converter",
     "links": [
       "https://meowrhino.github.io/imgToWeb/"
+    ]
+  },
+  {
+    "name": "webM converter",
+    "links": [
+      "https://meowrhino.github.io/videoToWeb/"
     ]
   },
   {
